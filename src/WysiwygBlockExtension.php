@@ -41,5 +41,4 @@ class WysiwygBlockExtension extends BlockExtension
      * @var string
      */
     protected $model = BlockModel::class;
-
 }

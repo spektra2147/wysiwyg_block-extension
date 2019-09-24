@@ -20,5 +20,4 @@ class AnomalyExtensionWysiwygBlockCreateWysiwygBlockFields extends Migration
     protected $fields = [
         'content' => 'anomaly.field_type.wysiwyg',
     ];
-
 }

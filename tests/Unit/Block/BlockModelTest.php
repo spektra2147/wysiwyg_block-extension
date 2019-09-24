@@ -13,7 +13,6 @@ use Anomaly\WysiwygBlockExtension\Block\BlockModel;
  */
 class BlockModelTest extends \TestCase
 {
-
     public function testCanInstantiate()
     {
         $this->assertInstanceOf(BlockModel::class, $this->app->make(BlockModel::class));

@@ -32,5 +32,4 @@ class AnomalyExtensionWysiwygBlockCreateBlocksStream extends Migration
             'translatable' => true,
         ],
     ];
-
 }
