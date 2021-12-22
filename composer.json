@@ -1,5 +1,5 @@
 {
-    "name": "anomaly/wysiwyg_block-extension",
+    "name": "visiosoft/wysiwyg_block-extension",
     "type": "streams-addon",
     "description": "A WYSIWYG content block.",
     "keywords": [
